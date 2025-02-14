@@ -7,14 +7,13 @@
 body {
     text-align: center;
     font-family:'Courier New', Courier, monospace; 
-    background-color: #efefef;
+    background-color: floralwhite;
 }
 h1 {
     color: var(--primary-color);
-    background-color: #f5e6d5;
     padding: 20px 30px 20px 30 px;
     margin: 20px 50px 60px 50px;
-    border: 1px solid #555a60;
+    border: 1px solid #183e6d;
     box-shadow: var(--box-shadow);
     font-size: 36px;
     
@@ -85,7 +84,7 @@ img {
     justify-content: center;
 }
 .closing {
-    color: rgb(134, 125, 125);
+    color: rgb(246, 230, 230);
     text-align: left;
 }
 .places {
