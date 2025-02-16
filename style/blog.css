@@ -69,9 +69,10 @@ img {
     display: block;
     margin: 0 auto;
     padding: 20px;
+    border-radius: 8%;
 }
 .imgMedium {
-    width: 300px
+    width: 400px
 }
 .imgLarge {
     width: 600px;
