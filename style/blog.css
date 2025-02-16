@@ -7,13 +7,14 @@
 body {
     text-align: center;
     font-family:'Courier New', Courier, monospace; 
-    background-color: floralwhite;
+    background-color: white;
 }
 h1 {
     color: var(--primary-color);
     padding: 20px 30px 20px 30 px;
     margin: 20px 50px 60px 50px;
     border: 1px solid #183e6d;
+    border-radius: 30px;
     box-shadow: var(--box-shadow);
     font-size: 36px;
     
