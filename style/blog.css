@@ -50,7 +50,7 @@ li:hover {
 }
 p {
     color: black;
-    font-size: 18px;
+    font-size: 20px;
     margin: 0 20px;
     padding: 15px;
 }
@@ -78,14 +78,20 @@ img {
     border-radius: 8%;
 }
 .imgMedium {
-    width: 400px
+    width: 400px;
+    height: auto;
+   
 }
 .imgLarge {
     width: 600px;
+    height: auto;
+   
 }
 
 .imgSmall {
     width: 100px;
+    height: auto;
+
 }
 .biography {
     display: flex;
