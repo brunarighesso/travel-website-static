@@ -10,19 +10,22 @@ p {
 h3,
 h2,
 h1 {
-    text-wrapp: balance;
+    text-wrap: balance;
 }
 
 :root {
     --primary-color: #610ce0;
     --secondary-color: rgb(101, 3, 88);
     --box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.3);
+    --text-high-contrast: var(--clr-white);
+
 }
 
 body {
     text-align: center;
     font-family:'Courier New', Courier, monospace; 
-    background-color: white;
+    background-color: rgb(229, 223, 223);
+    
 }
 body, html {
     margin-left:3%;
